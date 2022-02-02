@@ -1,4 +1,4 @@
-# sferoom-vZ
+# Nice sidebar
 
 ## Build Setup
 
